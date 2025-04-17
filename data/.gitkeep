@@ -1,0 +1,1 @@
+コードとデータを明確に分離します。生データ(raw)、加工データ(processed)、学習用データ(annotated)、成果物(book_profiles)、ガイドライン(guidelines)を分けて管理しやすくします。
