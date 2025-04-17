@@ -1,0 +1,13 @@
+services:
+  label-studio:
+    image: heartexlabs/label-studio:latest
+    ports:
+      - "8080:8080"
+    volumes:
+      - label-studio-data:/label-studio/data
+    environment:
+      - LABEL_STUDIO_USERNAME=myuser@example.com
+      - LABEL_STUDIO_PASSWORD=mypassword
+
+volumes:
+  label-studio-data:
