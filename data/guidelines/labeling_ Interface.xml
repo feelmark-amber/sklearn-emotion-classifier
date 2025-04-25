@@ -1,0 +1,32 @@
+<View>
+  <Labels name="label" toName="text">
+    <label html="敬服" value="Admiration"></label>
+    <label html="崇拝" value="Adoration"></label>
+    <label html="美的感動" value="Aesthetic"></label>
+    <label html="愉快" value="Amusement"></label>
+    <label html="怒り" value="Anger"></label>
+    <label html="焦慮" value="Anxiety"></label>
+    <label html="畏敬" value="Awe"></label>
+    <label html="当惑" value="Awkwardness"></label>
+    <label html="退屈" value="Boredom"></label>
+    <label html="冷静" value="Calmness"></label>
+    <label html="困惑" value="Confusion"></label>
+    <label html="渇望" value="Craving"></label>
+    <label html="嫌悪" value="Disgust"></label>
+    <label html="共感による痛み" value="Empathic"></label>
+    <label html="夢中" value="Entrancement"></label>
+    <label html="興奮" value="Excitement"></label>
+    <label html="恐怖" value="Fear"></label>
+    <label html="戦慄" value="Horror"></label>
+    <label html="興味" value="Interest"></label>
+    <label html="喜び" value="Joy"></label>
+    <label html="懐旧" value="Nostalgia"></label>
+    <label html="安堵" value="Relief"></label>
+    <label html="ロマンス" value="Romance"></label>
+    <label html="悲しみ" value="Sadness"></label>
+    <label html="満足" value="Satisfaction"></label>
+    <label html="性的欲求" value="Sexual"></label>
+    <Label html="驚き" value="Surprise"></Label>
+  </Labels>
+  <Text name="text" value="$text"></Text>
+</View>
