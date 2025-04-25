@@ -1,0 +1,2 @@
+- [JSONデータインポート例](https://labelstud.io/guide/tasks.html#Example-JSON-with-multiple-tasks)
+- [マルチ選択Label定義例](https://labelstud.io/tags/choices)
