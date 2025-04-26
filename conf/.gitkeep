@@ -1,0 +1,1 @@
+# ß一貫して参照させたい実験の設定値などを、例えばsecrets.ymlやparameters.ymlとしてまとめておき、OmegaConfやHydraから扱うと便利。
