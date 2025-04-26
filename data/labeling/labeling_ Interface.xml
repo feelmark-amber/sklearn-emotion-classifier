@@ -1,32 +1,32 @@
 <View>
-  <Choices name="Choice" toName="text" choice="multiple">
-    <Choice html="敬服" value="Admiration"></Choice>
-    <Choice html="崇拝" value="Adoration"></Choice>
-    <Choice html="美的感動" value="Aesthetic"></Choice>
-    <Choice html="愉快" value="Amusement"></Choice>
-    <Choice html="怒り" value="Anger"></Choice>
-    <Choice html="焦慮" value="Anxiety"></Choice>
-    <Choice html="畏敬" value="Awe"></Choice>
-    <Choice html="当惑" value="Awkwardness"></Choice>
-    <Choice html="退屈" value="Boredom"></Choice>
-    <Choice html="冷静 / 穏やかさ" value="Calmness"></Choice>
-    <Choice html="困惑" value="Confusion"></Choice>
-    <Choice html="渇望" value="Craving"></Choice>
-    <Choice html="嫌悪" value="Disgust"></Choice>
-    <Choice html="共感による痛み" value="Empathic"></Choice>
-    <Choice html="夢中" value="Entrancement"></Choice>
-    <Choice html="興奮" value="Excitement"></Choice>
-    <Choice html="恐怖" value="Fear"></Choice>
-    <Choice html="戦慄" value="Horror"></Choice>
-    <Choice html="興味" value="Interest"></Choice>
-    <Choice html="喜び" value="Joy"></Choice>
-    <Choice html="懐旧" value="Nostalgia"></Choice>
-    <Choice html="安堵" value="Relief"></Choice>
-    <Choice html="ロマンス" value="Romance"></Choice>
-    <Choice html="悲しみ" value="Sadness"></Choice>
-    <Choice html="満足" value="Satisfaction"></Choice>
-    <Choice html="性的欲求" value="Sexual"></Choice>
-    <Choice html="驚き" value="Surprise"></Choice>
-  </Choices>
   <Text name="text" value="$text"></Text>
+  <Choices style="display:flex" name="Choice" toName="text" choice="multiple" showInline="true">
+    <Choice html="1. 敬服" value="Admiration"></Choice>
+    <Choice html="2. 崇拝" value="Adoration"></Choice>
+    <Choice html="3. 美的感動" value="Aesthetic"></Choice>
+    <Choice html="4. 愉快" value="Amusement"></Choice>
+    <Choice html="5. 怒り" value="Anger"></Choice>
+    <Choice html="6. 焦慮" value="Anxiety"></Choice>
+    <Choice html="7. 畏敬" value="Awe"></Choice>
+    <Choice html="8. 当惑" value="Awkwardness"></Choice>
+    <Choice html="9. 退屈" value="Boredom"></Choice>
+    <Choice html="10. 冷静 / 穏やかさ" value="Calmness"></Choice>
+    <Choice html="11. 困惑" value="Confusion"></Choice>
+    <Choice html="12. 渇望" value="Craving"></Choice>
+    <Choice html="13. 嫌悪" value="Disgust"></Choice>
+    <Choice html="14. 共感による痛み" value="Empathic"></Choice>
+    <Choice html="15. 夢中" value="Entrancement"></Choice>
+    <Choice html="16. 興奮" value="Excitement"></Choice>
+    <Choice html="17. 恐怖" value="Fear"></Choice>
+    <Choice html="18. 戦慄" value="Horror"></Choice>
+    <Choice html="19. 興味" value="Interest"></Choice>
+    <Choice html="20. 喜び" value="Joy"></Choice>
+    <Choice html="21. 懐旧" value="Nostalgia"></Choice>
+    <Choice html="22. 安堵" value="Relief"></Choice>
+    <Choice html="23. ロマンス" value="Romance"></Choice>
+    <Choice html="24. 悲しみ" value="Sadness"></Choice>
+    <Choice html="25. 満足" value="Satisfaction"></Choice>
+    <Choice html="26. 性的欲求" value="Sexual"></Choice>
+    <Choice html="27. 驚き" value="Surprise"></Choice>
+  </Choices>
 </View>
