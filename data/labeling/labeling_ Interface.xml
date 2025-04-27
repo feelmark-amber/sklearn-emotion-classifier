@@ -3,7 +3,7 @@
   <Choices style="display:flex" name="Choice" toName="text" choice="multiple" showInline="true">
     <Choice html="1. 敬服" value="Admiration"></Choice>
     <Choice html="2. 崇拝" value="Adoration"></Choice>
-    <Choice html="3. 美的感動" value="Aesthetic"></Choice>
+    <Choice html="3. 美的感動" value="AestheticAppreciation"></Choice>
     <Choice html="4. 愉快" value="Amusement"></Choice>
     <Choice html="5. 怒り" value="Anger"></Choice>
     <Choice html="6. 焦慮" value="Anxiety"></Choice>
@@ -14,7 +14,7 @@
     <Choice html="11. 困惑" value="Confusion"></Choice>
     <Choice html="12. 渇望" value="Craving"></Choice>
     <Choice html="13. 嫌悪" value="Disgust"></Choice>
-    <Choice html="14. 共感による痛み" value="Empathic"></Choice>
+    <Choice html="14. 共感による痛み" value="EmpathicPain"></Choice>
     <Choice html="15. 夢中" value="Entrancement"></Choice>
     <Choice html="16. 興奮" value="Excitement"></Choice>
     <Choice html="17. 恐怖" value="Fear"></Choice>
@@ -26,7 +26,7 @@
     <Choice html="23. ロマンス" value="Romance"></Choice>
     <Choice html="24. 悲しみ" value="Sadness"></Choice>
     <Choice html="25. 満足" value="Satisfaction"></Choice>
-    <Choice html="26. 性的欲求" value="Sexual"></Choice>
+    <Choice html="26. 性的欲求" value="SexualDesire"></Choice>
     <Choice html="27. 驚き" value="Surprise"></Choice>
   </Choices>
 </View>
